@@ -1,2 +1,2 @@
 # leetcode
-# hello world!
+# 开始刷题之旅！加油！
