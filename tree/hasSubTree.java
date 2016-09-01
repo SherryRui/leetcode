@@ -20,6 +20,7 @@ public class Solution {
             return false;
 		return isSubTree(root1,root2) || HasSubtree(root1.left,root2) || HasSubtree(root1.right,root2);
     }
+
     public boolean isSubTree(TreeNode root1,TreeNode root2) {
         if(root2 == null)
             return true;
